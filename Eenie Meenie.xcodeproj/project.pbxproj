@@ -210,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A7B7F85A1FC76D5200568FD5 /* Build configuration list for PBXProject "DevBootCamps" */;
+			buildConfigurationList = A7B7F85A1FC76D5200568FD5 /* Build configuration list for PBXProject "Eenie Meenie" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -431,6 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Q3K996QRN7;
 				INFOPLIST_FILE = DevBootCamps/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Critch.DevBootCamps;
@@ -445,6 +446,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Q3K996QRN7;
 				INFOPLIST_FILE = DevBootCamps/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Critch.DevBootCamps;
@@ -519,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7B7F85A1FC76D5200568FD5 /* Build configuration list for PBXProject "DevBootCamps" */ = {
+		A7B7F85A1FC76D5200568FD5 /* Build configuration list for PBXProject "Eenie Meenie" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7B7F8871FC76D5300568FD5 /* Debug */,

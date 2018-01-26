@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:DevBootCamps.xcodeproj">
+      location = "self:/Users/critch/Desktop/DevBootCamps/Eenie Meenie.xcodeproj">
    </FileRef>
 </Workspace>
